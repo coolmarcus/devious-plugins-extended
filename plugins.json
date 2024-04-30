@@ -251,11 +251,20 @@
   "name": "Unethical Zulrah",
   "description": "Kills Zulrah for you",
   "id": "unethicalzulrah-plugin",
-  "releases": [{
-    "date": "2023-12-16",
-    "sha512sum": "64F2F60E2744C09ED5CD326F8AAA161DFED2AEA662C863A2D9FDE41DF20763FCC0F367662BA9E5993A8C4D52F432FF13AF35F1BC1D9852402C507DCAD0C83978",
-    "version": "0.0.2",
-    "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-zulrah-0.0.2.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2023-12-16",
+      "sha512sum": "64F2F60E2744C09ED5CD326F8AAA161DFED2AEA662C863A2D9FDE41DF20763FCC0F367662BA9E5993A8C4D52F432FF13AF35F1BC1D9852402C507DCAD0C83978",
+      "version": "0.0.2",
+      "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-zulrah-0.0.2.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2024-04-30",
+      "sha512sum": "C4D81A42065252546132E8639A8112F93A4E84EBA5D40BC6C0971CF5CD41AE27D61562A632A19FB53CD426846B3F8F243A686CE2B7EED83DCF95815550D7254A",
+      "version": "0.0.5",
+      "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-zulrah-0.0.5.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
