@@ -23,6 +23,12 @@ public enum PrayerNpc
 			new Attack(Prayer.PROTECT_FROM_MAGIC, 2656, 8, NpcID.TZTOKJAD),
 			new Attack(Prayer.PROTECT_FROM_MISSILES, 2652, 8, NpcID.TZTOKJAD)
 	),
+		
+	DIABLO(
+			new Attack(Prayer.PROTECT_FROM_MAGIC, 8970, 8, NpcID.DIABLO_16049),
+			new Attack(Prayer.PROTECT_FROM_MAGIC, 8972, 8, NpcID.DIABLO_16049),
+			new Attack(Prayer.PROTECT_FROM_MELEE, 9492, 8, NpcID.DIABLO_16049)
+	),
 
 	SUQAH(
 			new Attack(Prayer.PROTECT_FROM_MELEE, 4388, 6, NpcID.SUQAH_791),
